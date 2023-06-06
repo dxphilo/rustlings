@@ -12,6 +12,8 @@ _...looking for the old, web-based version of Rustlings? Try [here](https://gith
 + [functions1.rs](/exercises/functions/functions1.rs)
 + [functions2.rs](/exercises/functions/functions2.rs)
 + [functions3.rs](/exercises/functions/functions3.rs)
++ [functions4.rs](/exercises/functions/functions4.rs)
++ [functions5.rs](/exercises/functions/functions5.rs)
 
 ### Hashmaps
 + [hashmaps1.rs](/exercises/hashmaps/hashmaps1.rs)
