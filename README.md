@@ -57,3 +57,8 @@ _...looking for the old, web-based version of Rustlings? Try [here](https://gith
 ## Quiz 2
 + [quiz2.rs](/exercises/quiz2.rs)
 
+## Options
++ [options1.rs](/exercises/options1.rs)
++ [options2.rs](/exercises/options2.rs)
++ [options3.rs](/exercises/options3.rs)
+
